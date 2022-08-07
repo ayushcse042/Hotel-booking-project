@@ -6,6 +6,7 @@ The project was intend to provide booking facility for hotel rooms.The primary f
 Technology Used- NodeJS, ReactJS, MongoDB, ExpressJS.
 
 
+
 How to Install and Run the Project locally-
 
 1. npm install
