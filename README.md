@@ -7,7 +7,5 @@ Technology Used- NodeJS, ReactJS, MongoDB, ExpressJS.
 
 
 How to Install and Run the Project locally-
-
 npm install
-
 npm run dev
